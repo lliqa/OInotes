@@ -19,3 +19,17 @@
 + [x] 考试及改题
 + [x] HDU 4352 XHXJ's LIS
 + [x] BZOJ4361 isn
+
+## $\texttt{7.23}$
+
++ [x] 考试及改题
++ [x] POI2012 SZA-Cloakroom
++ [x] CF1025D Recovering BST
++ [x] CF938F Erasing Substrings
+
+## $\texttt{7.24}$
+
++ [x] 博弈论基础
++ [x] LG P1290 欧几里德的游戏
++ [x] BZOJ1299 巧克力棒
++ [x] BZOJ2463 谁能赢呢？
