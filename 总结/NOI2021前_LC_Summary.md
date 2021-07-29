@@ -33,3 +33,27 @@
 + [x] LG P1290 欧几里德的游戏
 + [x] BZOJ1299 巧克力棒
 + [x] BZOJ2463 谁能赢呢？
+
+## $\texttt{7.25}$
+
+周日放假
+
+## $\texttt{7.26}$
+
++ [x] $\texttt{NOI Day 1}$ 同步赛
++ [x] POJ2975 Nim
++ [x] POJ2945 A Chess Game
++ [x] POJ2960 S-Nim
+
+## $\texttt{7.27}$
+
++ [x] 博弈论经典模型
++ [x] POJ2505 A multiplication game（多阶段博弈）
++ [x] POJ2068 Nim（DP 求 DAG 的核）
++ [x] POJ2369（巴什博弈）
++ [x] 威佐夫博弈
+
+## $\texttt{7.28}$
+
++ [x] $\texttt{NOI Day 2}$ 同步赛
++ [x] Nim游戏变种（阶梯 Nim，Nim-k）
