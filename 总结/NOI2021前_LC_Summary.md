@@ -56,4 +56,11 @@
 ## $\texttt{7.28}$
 
 + [x] $\texttt{NOI Day 2}$ 同步赛
-+ [x] Nim游戏变种（阶梯 Nim，Nim-k）
++ [x] Nim游戏变种（阶梯 Nim，Nim-k，Anti-Nim）
+
+## $\texttt{7.29}$
+
++ [x] POJ1678 I Love this Game!
++ [x] HDU2177 取(2堆)石子游戏
++ [x] POJ1704 Georgia and Bob
++ [x] 博弈论总结笔记
