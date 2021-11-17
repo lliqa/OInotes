@@ -14,8 +14,8 @@
 > 结论：若干非负整数的最小两两异或和等于将所有数排序后相邻两项的最小异或和。
 
 > 证明：  
-> 上述结论等价于 $\forall 0 \leq x < y < z$，$\min \{x \oplus y, y \oplus z \} > x \oplus z$（$\oplus$ 为按位异或操作）  
-> 放到 $\texttt{01trie}$ 上来看，由于 $\texttt{01trie}$ 是二叉树，**不存在** 一个结点同时为 $3$ 个结点的 $\texttt{LCA}$，因此 $\texttt{LCA} (x, y)$ 和 $\texttt{LCA} (y, z)$ 深度皆大于 $\texttt{LCA} (x, z)$。再反推回去即得证。
+> 上述结论等价于 $\forall 0 \leq x < y < z$，$\min \{x \oplus y, y \oplus z \} < x \oplus z$（$\oplus$ 为按位异或操作）  
+> 放到 $\texttt{01trie}$ 上来看，由于 $\texttt{01trie}$ 是二叉树，**不存在** 一个结点同时为 $3$ 个结点两两的 $\texttt{LCA}$，因此 $\texttt{LCA} (x, y)$ 和 $\texttt{LCA} (y, z)$ 深度皆大于或等于 $\texttt{LCA} (x, z)$。再反推回去即得证。
 
 借助这个结论，发现可以先把原序列排序，然后就可以从前往后 DP 了。设 $f (i)$ 为以 $i$ 结尾的合法子序列数。
 
