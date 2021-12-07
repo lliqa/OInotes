@@ -2,7 +2,7 @@
 
 |      题目      |                angry                 |            block             |     island     |
 | :------------: | :----------------------------------: | :--------------------------: | :------------: |
-| 期望/实际 用时 | $35\text{min}/1\text{h}30\text{min}$ | $ 30\text{min}/40\text{min}$ | $15\text{min}$ |
+| 期望/实际 用时 | $35\text{min}/1\text{h}30\text{min}$ | $30\text{min}/40\text{min}$ | $15\text{min}$ |
 
 * 考试策略：
 	* 顺序：**angry** -> **block** -> **island**
